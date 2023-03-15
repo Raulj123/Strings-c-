@@ -8,7 +8,7 @@
   Then count the number of times that c occurs in
   the Pi string.
 
-#question 2
+# question 2
 Upset with the local politics, Monokai is trying to leave Lisbon! Monokai wants
 to take a series of flights to evade the local authorities and arrive at a
 final destination. Monokai is requesting your help in determining how elusive
